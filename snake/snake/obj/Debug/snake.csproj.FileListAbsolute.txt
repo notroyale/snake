@@ -1,0 +1,7 @@
+c:\users\rokas\source\repos\snake\snake\bin\Debug\snake.exe.config
+c:\users\rokas\source\repos\snake\snake\bin\Debug\snake.exe
+c:\users\rokas\source\repos\snake\snake\bin\Debug\snake.pdb
+c:\users\rokas\source\repos\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+c:\users\rokas\source\repos\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+c:\users\rokas\source\repos\snake\snake\obj\Debug\snake.exe
+c:\users\rokas\source\repos\snake\snake\obj\Debug\snake.pdb
